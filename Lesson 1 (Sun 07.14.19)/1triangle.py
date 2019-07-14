@@ -1,0 +1,16 @@
+import turtle
+screen = turtle.Screen()
+screen.colormode(255)
+turtle = turtle.Turtle()
+turtle.speed(1)
+
+turtle.forward(100)
+turtle.left(120)
+
+turtle.forward(100)
+turtle.left(120)
+
+turtle.forward(100)
+turtle.left(120)
+
+screen.exitonclick()
