@@ -1,0 +1,16 @@
+9-2-west-inf
+streets 17
+eastwestwalls 8 2 2
+northsouthwalls 1 4 8
+eastwestwalls 3 2 2
+northsouthwalls 2 4 8
+
+northsouthwalls 3 3 3
+eastwestwalls 3 4 12
+northsouthwalls 12 3 3
+eastwestwalls 2 4 12
+
+eastwestwalls 4 13 15
+eastwestwalls 9 13 15
+northsouthwalls 12 5 9
+northsouthwalls 15 5 9

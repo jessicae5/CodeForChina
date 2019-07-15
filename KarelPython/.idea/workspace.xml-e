@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f6b620-518a-4739-a53b-97dde7cf6919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/karel/stanfordkarel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/karel/stanfordkarel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/karel/tkwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/karel/tkwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/worlds/Triple3.kwld" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/worlds/Triple3.kwld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karel/robotworldbase.py" beforeDir="false" afterPath="$PROJECT_DIR$/karel/robotworldbase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karel/stanfordkarel.py" beforeDir="false" afterPath="$PROJECT_DIR$/karel/stanfordkarel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karel/tkwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/karel/tkwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karel/tkworldadapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/karel/tkworldadapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worlds/Triple3.kwld" beforeDir="false" afterPath="$PROJECT_DIR$/worlds/Triple3.kwld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlankKarel/Karel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BlankKarel/Karel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlankKarel/karel/stanfordkarel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BlankKarel/karel/stanfordkarel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlankKarel/karel/tkwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BlankKarel/karel/tkwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/assn/1-Karel/1-Karel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/assn/1-Karel/1-Karel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/assn/styleguide.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/assn/styleguide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycharm_intro/.idea/pycharm_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycharm_intro/.idea/pycharm_intro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycharm_intro/karel/stanfordkarel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycharm_intro/karel/stanfordkarel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycharm_intro/karel/tkwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pycharm_intro/karel/tkwindow.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eastwestwalls</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CollectNewspaperKarel.py" />
+        <option value="$PROJECT_DIR$/ColumnBuilderKarel.py" />
+        <option value="$PROJECT_DIR$/RegularPotholeKarel.py" />
+        <option value="$PROJECT_DIR$/TwoPotholeKarel.py" />
+        <option value="$PROJECT_DIR$/karel/stanfordkarel.py" />
+        <option value="$PROJECT_DIR$/worlds/Triple2.kwld" />
+        <option value="$PROJECT_DIR$/MidpointKarel.py" />
+        <option value="$PROJECT_DIR$/worlds/Midpoint5.kwld" />
+        <option value="$PROJECT_DIR$/worlds/Midpoint8.kwld" />
+        <option value="$PROJECT_DIR$/worlds/Midpoint2.kwld" />
+        <option value="$PROJECT_DIR$/worlds/Midpoint1.kwld" />
+        <option value="$PROJECT_DIR$/FillPotholeKarel.py" />
+        <option value="$PROJECT_DIR$/TripleKarel.py" />
+        <option value="$PROJECT_DIR$/CheckerboardKarel.py" />
+        <option value="$PROJECT_DIR$/worlds/Triple3.kwld" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1536" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CollectNewspaperKarel">
+    <configuration name="CheckerboardKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckerboardKarel.py" />
+      <option name="PARAMETERS" value="worlds/Checkerboard8x8.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CollectNewspaperKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CollectNewspaperKarel.py" />
+      <option name="PARAMETERS" value="worlds/CollectNewspaper.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ColumnBuilderKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ColumnBuilderKarel.py" />
+      <option name="PARAMETERS" value="worlds/ColumnBuilder1.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FillPotholeKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FillPotholeKarel.py" />
+      <option name="PARAMETERS" value="worlds/TwoPotholes.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MidpointKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidpointKarel.py" />
+      <option name="PARAMETERS" value="worlds/Midpoint5.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TripleKarel" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TripleKarel.py" />
+      <option name="PARAMETERS" value="worlds/Triple1.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CheckerboardKarel" />
+      <item itemvalue="Python.CollectNewspaperKarel" />
+      <item itemvalue="Python.ColumnBuilderKarel" />
+      <item itemvalue="Python.FillPotholeKarel" />
+      <item itemvalue="Python.MidpointKarel" />
+      <item itemvalue="Python.TripleKarel" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f6b620-518a-4739-a53b-97dde7cf6919" name="Default Changelist" comment="" />
+      <created>1558604264770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558604264770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="23" width="1536" height="811" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23366337" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RegularPotholeKarel.py" />
+    <entry file="file://$PROJECT_DIR$/TwoPotholeKarel.py" />
+    <entry file="file://$PROJECT_DIR$/karel/robota.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/basicdefinitions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-926" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/stanfordkarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/robotworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="112" column="27" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Triple1.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/robotworldbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="153" column="38" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Checkerboard8x8.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Midpoint5.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Midpoint8.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Midpoint2.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Midpoint1.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Triple3.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Triple2.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FillPotholeKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TripleKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidpointKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckerboardKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CollectNewspaperKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColumnBuilderKarel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

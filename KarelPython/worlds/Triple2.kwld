@@ -1,0 +1,14 @@
+7-3-west-inf
+streets 10
+eastwestwalls 4 5 5
+eastwestwalls 5 5 5
+northsouthwalls 4 5 5
+northsouthwalls 5 5 5
+eastwestwalls 5 3 3
+eastwestwalls 6 3 3
+northsouthwalls 2 6 6
+northsouthwalls 3 6 6
+eastwestwalls 6 6 6
+eastwestwalls 7 6 6
+northsouthwalls 5 7 7
+northsouthwalls 6 7 7
